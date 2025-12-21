@@ -1,5 +1,4 @@
 const config = {
-  DarkMode: "class",
   plugins: {
     "@tailwindcss/postcss": {},
   },
